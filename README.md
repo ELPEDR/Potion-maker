@@ -1,2 +1,2 @@
 # Potion-maker
-You can create several types of wells
+You can create several types of Potions
