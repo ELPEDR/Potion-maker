@@ -25,7 +25,7 @@ Made with 💻 [Construct 2](https://www.construct.net).
 - Pixel-style UI for a clean, fun potion lab  
 
 ## 🗂 Project File  
-Open the `.capx` file in Construct 2 to see or customize the project.  
+Open the [Capx](https://github.com/ELPEDR/Potion-maker/releases/tag/realease) file in Construct 2 to see or customize the project.  
 You can add new ingredients, effects, or UI improvements!
 
 ## 💡 Ideas for Future Updates  
