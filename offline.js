@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1751609233,
+	"version": 1751662042,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,9 @@
 		"images/sprite22-sheet0.png",
 		"images/sprite23-sheet0.png",
 		"images/sprite25-sheet0.png",
+		"images/sprite24-sheet0.png",
+		"images/saveb2-sheet0.png",
+		"images/spritefont.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
